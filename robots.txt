@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://athuephahw.salonammarkt.at/sitemap.xml
